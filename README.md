@@ -44,3 +44,16 @@ This project is built with **Vite + React** for the frontend and **Node.js** for
 - Firebase (Authentication & database)
 
 ---
+
+Guide how to start the project
+
+##Start the Frontend (Vite + React)
+cd client
+npm install
+npm run dev
+
+
+##Start the Backend (Node.js)
+cd functions
+npm install
+npm start
